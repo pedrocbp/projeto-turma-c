@@ -16,5 +16,6 @@ CELULAR: (14) 998535271
 
 - Developer Jacto
 - Tecnico de Informática - Anjinhos Presentes
+- Programador 
 ---
 
